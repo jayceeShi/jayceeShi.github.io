@@ -24,8 +24,8 @@ html, hmtl a{
 }
 
 body{
-	background:#2F3238;
-	color:#7F8289;
+	background:#FFF0F5;
+	color:#000000;
 	font-weight:300;
 	font-size:16px;
 	font-family: 'Titillium Web', sans-serif;
@@ -48,7 +48,7 @@ a:hover,
 a:active,
 a:focus{
 	outline: 0;
-	color:#FFFFFF;
+	color:#000000;
 	text-decoration:none;
 }
 
@@ -74,7 +74,7 @@ p {
 
 hr {
 	border-style: dashed;
-	border-color: #3C3F45;
+	border-color: #FFF0F5;
 	border-bottom: none;
 	border-left: none;
 	border-right: none;
@@ -148,7 +148,7 @@ pre {
   	-webkit-border-radius: 3px;
        -moz-border-radius: 3px;
             border-radius: 3px;
-  	color: #232527;
+  	color: #DC143C;
   	font-size: 12px;
   	font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
 }
@@ -157,7 +157,7 @@ code {
   	padding: 2px 4px;
   	border: 1px solid #dde4e9;
   	background-color: #F6F6F6;
-  	color: #232527;
+  	color: #DC143C;
   	white-space: nowrap;
 }
 
@@ -203,7 +203,7 @@ h4,
 h5,
 h6{
 	margin:0 0 20px 0;
-	color:#FFFFFF;
+	color:#000000;
 	font-weight:300;
 	font-family: 'Titillium Web', sans-serif;
 	line-height:1.5em;
@@ -234,7 +234,7 @@ h6{
 }
 
 h3.spec {
-	color: #FFFFFF;
+	color: #000000;
     font-size: 24px;
     font-weight: 300;
     line-height: 1em;
@@ -301,7 +301,7 @@ h3.spec {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: #26292E;
+	background: #FFF0F5;
 	opacity: 0.7;
 	filter: alpha(opacity=70);
 	z-index: 0;
@@ -328,7 +328,7 @@ h3.spec {
 
 #home-slider .slide-content {
 	font-size: 60px;
-	color: #FFFFFF;
+	color: #000000;
 	letter-spacing: -3px;
 	text-transform: uppercase;	
 }
@@ -336,7 +336,7 @@ h3.spec {
 #home-slider .control-nav {
 	position: absolute;
 	width: 100%;
-	background: #2F3238;
+	background: #DC143C;
 	height: 50px;
 	bottom: 0;
 	z-index: 2;
@@ -345,7 +345,7 @@ h3.spec {
 #home-slider #nextslide,
 #home-slider #prevslide {
 	background-image: none;
-	background-color: #26292E;
+	background-color: #DC143C;
 	display: inline-block;
 	margin: 0;
 	position: relative;
@@ -379,7 +379,7 @@ h3.spec {
 #home-slider #nextslide i,
 #home-slider #prevslide i {
 	font-size: 16px;
-	color: #FFFFFF;
+	color: #000000;
 	position: absolute;
 	left: 50%;
 	top: 50%;
@@ -426,7 +426,7 @@ h3.spec {
 }
 
 #home-slider ul#slide-list li a:hover {
-	background-color: #FFFFFF;	
+	background-color: #000000;	
 }
 
 #home-slider ul#slide-list li.current-slide a,
@@ -454,7 +454,7 @@ h3.spec {
 
 #home-slider #nextsection i {
 	font-size: 16px;
-	color: #FFFFFF;
+	color: #000000;
 	position: absolute;
 	left: 50%;
 	top: 50%;
@@ -496,7 +496,7 @@ header .sticky-nav.stuck {
 }
 
 header #logo {
-	color: #FFFFFF;
+	color: #000000;
 	float: left;
 	padding: 15px 0;
 	margin-left: 20px;
@@ -543,7 +543,7 @@ nav#menu #menu-nav li:first-child {
 }
 
 nav#menu #menu-nav li a {
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 60px;
@@ -628,14 +628,14 @@ nav#menu #menu-nav li a:hover {
 ================================================== */
 
 .page {
-	background: #2F3238;
+	background: #FFFFFF;
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
 }
 
 .page-alternate {
-	background: #26292E;
+	background: #FFFFFF;
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
@@ -662,7 +662,7 @@ nav#menu #menu-nav li a:hover {
 ================================================== */
 
 .type-work {
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 24px;
 	font-weight: 300;
 	margin-bottom: 30px;
@@ -688,7 +688,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .work-nav #filters li a:hover {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .work-nav #filters li a.selected {
@@ -763,7 +763,7 @@ nav#menu #menu-nav li a:hover {
 	top: 50%;
 	left: 50%;
 	margin: -16px 0 0 -16px;
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 32px;
 	line-height: 1em;
 	
@@ -844,7 +844,7 @@ nav#menu #menu-nav li a:hover {
 	height: 32px;
 	top: 50%;
 	margin: -16px 0 0 0;
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 32px;
@@ -870,7 +870,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .social-icons li a{
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 16px;
 	line-height: 1em;
 	width: 16px;
@@ -895,7 +895,7 @@ nav#menu #menu-nav li a:hover {
 ================================================== */
 
 .contact-details h3 {
-	color: #FFFFFF;
+	color: #000000;
     font-size: 24px;
     font-weight: 300;
     margin-bottom: 30px;
@@ -934,8 +934,8 @@ nav#menu #menu-nav li a:hover {
 	-moz-box-shadow: none;
 	box-shadow: none;
 	
-	background: #26292E;
-    color: #FFFFFF;
+	background: #FFF0F5;
+    color: #000000;
     font-size: 16px;
     height: auto;
     padding: 15px;
@@ -960,8 +960,8 @@ nav#menu #menu-nav li a:hover {
 }
 
 #contact-form .submit {
-    background: #3C3F45;
-    color: #23262C;
+    background: #FFF0F5;
+    color: #D8BFD8;
     cursor: pointer;
     display: inline-block;
     font-size: 18px;
@@ -980,12 +980,12 @@ nav#menu #menu-nav li a:hover {
 
 #contact-form .submit:hover {
     background: #DE5E60;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 #response {
 	margin-top: 20px;
-	color: #FFFFFF;
+	color: #000000;
 }
 
 
@@ -1029,7 +1029,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #ticker .tweet_list .tweet_time a:hover {
-	color: #FFFFFF;	
+	color: #000000;	
 }
 
 
@@ -1111,7 +1111,7 @@ nav#menu #menu-nav li a:hover {
 
 #social ul li:hover a span,
 #social ul li.active a span {
-	color: #FFFFFF;
+	color: #000000;
 	opacity: 1;
 	filter: alpha(opacity=100);
 	
@@ -1136,7 +1136,7 @@ footer {
 }
 
 footer .credits {
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 13px;
 	margin-bottom: 0;
 	padding: 20px 0;
@@ -1149,7 +1149,7 @@ footer .credits {
 
 #back-to-top {
 	display: none;
-	background-color: #3C3F45;
+	background-color: #DB7093;
 	margin: 0;
 	position: fixed;
 	bottom: 0;
@@ -1170,7 +1170,7 @@ footer .credits {
 
 #back-to-top i {
 	font-size: 16px;
-	color: #FFFFFF;
+	color: #000000;
 	position: absolute;
 	left: 50%;
 	top: 50%;
@@ -1189,7 +1189,7 @@ footer .credits {
 
 #jpreOverlay,
 #jSplash {
-	background-color: #2F3238;
+	background-color: #FFF0F5;
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -1224,7 +1224,7 @@ footer .credits {
 	z-index: 800;
 	
 	font-size: 24px;
-	color: #FFFFFF;	
+	color: #2F3238;	
 
 	-webkit-animation: circle 1s infinite forwards;
 	   -moz-animation: circle 1s infinite forwards;
