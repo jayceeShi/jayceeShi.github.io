@@ -16,7 +16,7 @@ main:
     image: ./assets/img/fmfusion.png
 
 
-- title: Are all point clouds suitable for completion? Weakly supervised quality evaluation network for point cloud completion.
+  - title: Are all point clouds suitable for completion? Weakly supervised quality evaluation network for point cloud completion.
     authors: <strong>J. Shi</strong>, P. Li, X. Chen and S. Shen.
     conference_short: ICRA
     conference: In Proc. of the IEEE International Conference on Robotics and Automation (ICRA), London, UK, May 2023.
@@ -24,7 +24,7 @@ main:
     image: ./assets/img/weak.png
 
 
-- title: Efficient Implicit Neural Reconstruction Using LiDAR.
+  - title: Efficient Implicit Neural Reconstruction Using LiDAR.
     authors: D. Yan, X. Lyu, <strong>J. Shi</strong> and Y. Lin.
     conference_short: ICRA
     conference: In Proc. of the IEEE International Conference on Robotics and Automation (ICRA), London, UK, May 2023.
@@ -32,7 +32,7 @@ main:
     image: ./assets/img/lnerf.png
 
 
-- title: Temporal point cloud completion with pose disturbance.
+  - title: Temporal point cloud completion with pose disturbance.
     authors: <strong>J. Shi</strong>, L. Xu, P. Li, X. Chen and S. Shen.
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters, January 2022.
@@ -49,21 +49,21 @@ main:
     image: ./assets/img/gpcn.png
     notes: Presented at IROS 2021.
 
-- title: Tracking from patterns: learning corresponding patterns in point clouds for 3D object tracking.
+  - title: Tracking from patterns: learning corresponding patterns in point clouds for 3D object tracking.
     authors: <strong>J. Shi</strong>, P. Li and S. Shen.
     conference_short: PAD
     conference: Workshop on Perception for Autonomous Driving (PAD), the European Conference on Computer Vision (ECCV), virtual, August 2020.
     pdf: https://arxiv.org/abs/2010.10051
     image: ./assets/img/asrcnn.png
 
-- title: Joint spatial-temporal optimization for stereo 3D object tracking.
+  - title: Joint spatial-temporal optimization for stereo 3D object tracking.
     authors: P. Li, <strong>J. Shi</strong> and S. Shen.
     conference_short: CVPR
     conference: In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pages 6876-6885, Seattle, Washington, USA, June 2020.
     pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Joint_Spatial-Temporal_Optimization_for_Stereo_3D_Object_Tracking_CVPR_2020_paper.pdf
     image: ./assets/img/jst.png
 
-- title: Coarse-To-Fine Visual Localization Using Semantic Compact Map. 
+  - title: Coarse-To-Fine Visual Localization Using Semantic Compact Map. 
     authors: Z. Liao, <strong>J. Shi</strong>, X. Qi, X. Zhang, W. Wang, Y. He, R. Wei and X. Liu.
     conference_short: ICCR
     conference: 2020 3rd International Conference on Control and Robots (ICCR), pages 30-37, 2020.
@@ -71,7 +71,7 @@ main:
     image: ./assets/img/ctf.png
 
       
-- title: An Efficient Volumetric Mesh Representation for Real-time Scene Reconstruction using Spatial Hashing.
+  - title: An Efficient Volumetric Mesh Representation for Real-time Scene Reconstruction using Spatial Hashing.
     authors: W. Dong, <strong>J. Shi</strong>, W. Tang, X. Wang and H. Zha.
     conference_short: ICRA
     conference: In Proc. of the IEEE International Conference on Robotics and Automation (ICRA), pages 6323-6330, 2018
