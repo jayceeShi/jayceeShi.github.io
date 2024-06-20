@@ -20,7 +20,7 @@ main:
     conference_short: ICRA
     conference: In Proc. of the IEEE International Conference on Robotics and Automation (ICRA), London, UK, May 2023.
     pdf: https://ieeexplore.ieee.org/document/10160226
-    image: ./assets/img/weak.png
+    image: ./assets/img/weak.PNG
 
   - title: Efficient Implicit Neural Reconstruction Using LiDAR.
     authors: D. Yan, X. Lyu, <strong>J. Shi</strong> and Y. Lin.
@@ -42,7 +42,7 @@ main:
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters, July 2021.
     pdf: https://ieeexplore.ieee.org/document/9484752
-    image: ./assets/img/gpcn.png
+    image: ./assets/img/gpcn.PNG
     notes: Presented at IROS 2021.
 
   - title: "Tracking from patterns: learning corresponding patterns in point clouds for 3D object tracking."
