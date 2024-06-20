@@ -37,7 +37,7 @@ main:
     image: ./assets/img/temporal.png
     notes: Presented at ICRA 2022.
 
-- title: Graph guided deformation for point cloud completion.
+  - title: Graph guided deformation for point cloud completion.
     authors: <strong>J. Shi</strong>, L. Xu, L. Heng and S. Shen.
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters, July 2021.
@@ -71,4 +71,4 @@ main:
     conference_short: ICRA
     conference: In Proc. of the IEEE International Conference on Robotics and Automation (ICRA), pages 6323-6330, 2018
     pdf: https://arxiv.org/abs/1803.03949
-    image: ./assets/img/efm.png   
+    image: ./assets/img/efm.png
