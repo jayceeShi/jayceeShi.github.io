@@ -1,6 +1,6 @@
 main:
 
-  - title: You Only Label Once: 3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning. 
+  - title: "You Only Label Once: 3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning. "
     authors: <strong>J. Shi</strong>, P. Li, X. Chen and S. Shen. 
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters, 8(10), pp. 6811-6818, August 2023.
@@ -8,7 +8,7 @@ main:
     image: ./assets/img/label.png
     notes: Presented at ICRA 2024
 
-  - title: FM-fusion: instance-aware semantic mapping boosted by vision-language foundation models.
+  - title: "FM-fusion: instance-aware semantic mapping boosted by vision-language foundation models."
     authors: C. Liu, K. Wang, <strong>J. Shi</strong>, Z. Qiao and S. Shen.
     conference_short: RAL
     conference: IEEE Robotics and Automation Letter, 1(8), pp. 0-0, January 2024.
