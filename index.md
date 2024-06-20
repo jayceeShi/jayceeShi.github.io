@@ -13,6 +13,6 @@ I am currently a postdoc researcher in <a href="https://uav.hkust.edu.hk/">UAV G
 
 ## News
 
-- **[Jun. 2024]** Glad to annouce that I will join Nanjing University(Suzhou Campus) this summer as an Assistant Professor! Students who are interested in my research interests are welcome to talk to me further.
+- **[Jun. 2024]** Glad to annouce that I will join <font color=red>Nanjing University(Suzhou Campus)</font> this summer as an <font color=red>Assistant Professor</font>. Students who are interested in my research interests are welcome to talk to me further.
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
