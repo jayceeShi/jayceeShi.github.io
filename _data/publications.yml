@@ -45,7 +45,7 @@ main:
     image: ./assets/img/gpcn.png
     notes: Presented at IROS 2021.
 
-  - title: Tracking from patterns: learning corresponding patterns in point clouds for 3D object tracking.
+  - title: "Tracking from patterns: learning corresponding patterns in point clouds for 3D object tracking."
     authors: <strong>J. Shi</strong>, P. Li and S. Shen.
     conference_short: PAD
     conference: Workshop on Perception for Autonomous Driving (PAD), the European Conference on Computer Vision (ECCV), virtual, August 2020.
