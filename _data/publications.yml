@@ -13,7 +13,7 @@ main:
     conference: IEEE Robotics and Automation Letter, 1(8), pp. 0-0, January 2024.
     pdf: https://ieeexplore.ieee.org/document/10403989/
     notes: Will be presented at IROS 2024
-    image: ./assets/img/fmfusion.png
+    image: ./assets/img/fmfusion.PNG
 
   - title: Are all point clouds suitable for completion? Weakly supervised quality evaluation network for point cloud completion.
     authors: <strong>J. Shi</strong>, P. Li, X. Chen and S. Shen.
@@ -27,7 +27,7 @@ main:
     conference_short: ICRA
     conference: In Proc. of the IEEE International Conference on Robotics and Automation (ICRA), London, UK, May 2023.
     pdf: https://ieeexplore.ieee.org/document/10160322
-    image: ./assets/img/lnerf.png
+    image: ./assets/img/lnerf.PNG
 
   - title: Temporal point cloud completion with pose disturbance.
     authors: <strong>J. Shi</strong>, L. Xu, P. Li, X. Chen and S. Shen.
@@ -50,25 +50,25 @@ main:
     conference_short: PAD
     conference: Workshop on Perception for Autonomous Driving (PAD), the European Conference on Computer Vision (ECCV), virtual, August 2020.
     pdf: https://arxiv.org/abs/2010.10051
-    image: ./assets/img/asrcnn.png
+    image: ./assets/img/asrcnn.PNG
 
   - title: Joint spatial-temporal optimization for stereo 3D object tracking.
     authors: P. Li, <strong>J. Shi</strong> and S. Shen.
     conference_short: CVPR
     conference: In Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pages 6876-6885, Seattle, Washington, USA, June 2020.
     pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Joint_Spatial-Temporal_Optimization_for_Stereo_3D_Object_Tracking_CVPR_2020_paper.pdf
-    image: ./assets/img/jst.png
+    image: ./assets/img/jst.PNG
 
   - title: Coarse-To-Fine Visual Localization Using Semantic Compact Map. 
     authors: Z. Liao, <strong>J. Shi</strong>, X. Qi, X. Zhang, W. Wang, Y. He, R. Wei and X. Liu.
     conference_short: ICCR
     conference: 2020 3rd International Conference on Control and Robots (ICCR), pages 30-37, 2020.
     pdf: https://arxiv.org/abs/1910.04936
-    image: ./assets/img/ctf.png
+    image: ./assets/img/ctf.PNG
 
   - title: An Efficient Volumetric Mesh Representation for Real-time Scene Reconstruction using Spatial Hashing.
     authors: W. Dong, <strong>J. Shi</strong>, W. Tang, X. Wang and H. Zha.
     conference_short: ICRA
     conference: In Proc. of the IEEE International Conference on Robotics and Automation (ICRA), pages 6323-6330, 2018
     pdf: https://arxiv.org/abs/1803.03949
-    image: ./assets/img/efm.png
+    image: ./assets/img/efm.PNG
