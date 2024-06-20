@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a postdoc researcher in <a href="https://uav.hkust.edu.hk/">UAV Group</a> of the Hong Kong University of Science and Technology. Before that, I spent four wonderful years in HKUST and received my PhD degree in Feb 2024, supervised by Prof. <a href="https://uav.hkust.edu.hk/group/"> Shaojie Shen. I received my bachelor's degree in School of Electronic Engineering and Computer Science, Peking University. I was a research intern at Carnegie Mellon University, Megvii. Co, and Dji Automotive.
+I am currently a postdoc researcher in <a href="https://uav.hkust.edu.hk/">UAV Group</a> of the Hong Kong University of Science and Technology. Before that, I spent four wonderful years in HKUST and received my PhD degree in Feb 2024, supervised by Prof. <a href="https://uav.hkust.edu.hk/group/"> Shaojie Shen</a>. I received my bachelor's degree in School of Electronic Engineering and Computer Science, Peking University. I was a research intern at Carnegie Mellon University, Megvii. Co, and Dji Automotive.
 
 ## Research Interests
 
