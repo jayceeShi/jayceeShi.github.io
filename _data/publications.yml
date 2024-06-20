@@ -15,14 +15,12 @@ main:
     notes: Will be presented at IROS 2024
     image: ./assets/img/fmfusion.png
 
-
   - title: Are all point clouds suitable for completion? Weakly supervised quality evaluation network for point cloud completion.
     authors: <strong>J. Shi</strong>, P. Li, X. Chen and S. Shen.
     conference_short: ICRA
     conference: In Proc. of the IEEE International Conference on Robotics and Automation (ICRA), London, UK, May 2023.
     pdf: https://ieeexplore.ieee.org/document/10160226
     image: ./assets/img/weak.png
-
 
   - title: Efficient Implicit Neural Reconstruction Using LiDAR.
     authors: D. Yan, X. Lyu, <strong>J. Shi</strong> and Y. Lin.
@@ -31,7 +29,6 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10160322
     image: ./assets/img/lnerf.png
 
-
   - title: Temporal point cloud completion with pose disturbance.
     authors: <strong>J. Shi</strong>, L. Xu, P. Li, X. Chen and S. Shen.
     conference_short: RAL
@@ -39,7 +36,6 @@ main:
     pdf: https://ieeexplore.ieee.org/document/9695368/
     image: ./assets/img/temporal.png
     notes: Presented at ICRA 2022.
-
 
 - title: Graph guided deformation for point cloud completion.
     authors: <strong>J. Shi</strong>, L. Xu, L. Heng and S. Shen.
@@ -70,7 +66,6 @@ main:
     pdf: https://arxiv.org/abs/1910.04936
     image: ./assets/img/ctf.png
 
-      
   - title: An Efficient Volumetric Mesh Representation for Real-time Scene Reconstruction using Spatial Hashing.
     authors: W. Dong, <strong>J. Shi</strong>, W. Tang, X. Wang and H. Zha.
     conference_short: ICRA
