@@ -42,7 +42,7 @@ main:
     conference_short: RAL
     conference: IEEE Robotics and Automation Letters, July 2021.
     pdf: https://ieeexplore.ieee.org/document/9484752
-    image: ./assets/img/gpcn.PNG
+    image: ./assets/img/gpcn.jpg
     notes: Presented at IROS 2021.
 
   - title: "Tracking from patterns: learning corresponding patterns in point clouds for 3D object tracking."
