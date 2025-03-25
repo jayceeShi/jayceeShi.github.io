@@ -12,8 +12,9 @@ I am currently an Assistant Professor in School of Intelligence Science and Tech
 - **Robotics:** Perception for Robotics, SLAM, Semantic Mapping
 
 ## News
+- **[Mar. 2025]** 课题组现有2名2025入学的考研硕士研究生名额，欢迎与我联系！
+- **[Dec. 2024]** One paper accepted by ICLR.
 - **[Sep. 2024]** I am glad to serve as an Associate Editor of ICRA 2025.
-- **[Aug. 2024]** 课题组现有若干2026入学的保研/推免硕士研究生名额，以及2025入学的硕士研究生名额，欢迎与我联系！
 - **[Jun. 2024]** Glad to annouce that I will join <font color=red>Nanjing University(Suzhou Campus)</font> this summer as an <font color=red>Assistant Professor</font>. Students who are interested in my research interests are welcome to talk to me further.
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
