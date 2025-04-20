@@ -1,4 +1,18 @@
 main:
+  - title: "SG-Reg: Generalizable and Efficient Scene Graph Registration. "
+    authors: C. Liu, Z. Qiao, <strong>J. Shi*</strong>, K. Wang, P. Liu, S. Shen. 
+    conference_short: T-RO
+    conference: IEEE Transactions on Robotics.
+    pdf: 
+    image: ./assets/img/sgreg.png
+    
+  - title: "GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation. "
+    authors: Y. Chen, Z. Chen, J. Yin, J. Huo, P. Tian, <strong>J. Shi</strong>, Y. Gao. 
+    conference_short: ICLR
+    conference: The International Conference on Learning Representations 2025.
+    pdf: https://openreview.net/pdf?id=qPzYF2EpXb
+    image: ./assets/img/gravmad.png
+
   - title: "You Only Label Once: 3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning. "
     authors: <strong>J. Shi</strong>, P. Li, X. Chen and S. Shen. 
     conference_short: RAL
