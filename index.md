@@ -12,6 +12,7 @@ I am currently an Assistant Professor in School of Intelligence Science and Tech
 - **Robotics:** Perception for Robotics, SLAM, Semantic Mapping
 
 ## News
+- **[May. 2025]** One paper accepted by RA-L.
 - **[Apr. 2025]** One paper accepted by T-RO.
 - **[Mar. 2025]** 课题组现有2名2025入学的考研硕士研究生名额，欢迎与我联系！
 - **[Dec. 2024]** One paper accepted by ICLR.
