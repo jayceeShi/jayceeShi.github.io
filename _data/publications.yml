@@ -1,4 +1,11 @@
 main:
+  - title: "SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving. "
+    authors: M. Pei, J. Shan, P. LI, <strong>J. Shi*</strong>, J. Huo, Y. Gao, S. Shen. 
+    conference_short: RAL
+    conference: IEEE Robotics and Automation Letters.
+    pdf: 
+    image: ./assets/img/sept.png
+    
   - title: "SG-Reg: Generalizable and Efficient Scene Graph Registration. "
     authors: C. Liu, Z. Qiao, <strong>J. Shi*</strong>, K. Wang, P. Liu, S. Shen. 
     conference_short: T-RO
