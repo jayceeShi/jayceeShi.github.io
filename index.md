@@ -12,7 +12,7 @@ I am currently an Assistant Professor in <a href="https://cs.nju.edu.cn/rl/">Rea
 - **Robotics:** Perception for Robotics, SLAM, Semantic Mapping
 
 ## News
-- 26年入学的所有硕博名额暂已发放完毕，感谢同学们的支持。后续工程硕博计划暂未确定，请关注主页更新。
+- 团队目前有一个申请-考核制博士名额，计划招录一名对SLAM/导航有一定基础和兴趣的同学。请感兴趣的同学邮件联系。
 - **[May. 2025]** One paper accepted by RA-L.
 - **[Apr. 2025]** One paper accepted by T-RO.
 - **[Dec. 2024]** One paper accepted by ICLR.
