@@ -12,7 +12,9 @@ I am currently a Tenure-Track Associate Professor in <a href="https://cs.nju.edu
 - **Robotics:** Perception for Robotics, SLAM, Semantic Mapping
 
 ## News
+- **[Jan. 2026]** Two paper accepted by ICRA.
 - **[Nov. 2025]** One paper accepted by AAAI.
+- **[Sep. 2025]** I am glad to serve as an Associate Editor of ICRA 2026.
 - <del>团队目前有一个申请-考核制博士名额（需要2026年入学前获得硕士学位），计划招录一名对SLAM/导航有一定基础和兴趣的同学。请感兴趣的同学邮件联系。</del>
 - **[May. 2025]** One paper accepted by RA-L.
 - **[Apr. 2025]** One paper accepted by T-RO.
