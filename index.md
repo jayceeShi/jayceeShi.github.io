@@ -7,11 +7,12 @@ layout: homepage
 I am currently a Tenure-Track Associate Professor in <a href="https://cs.nju.edu.cn/rl/">Reasoning and Learning Research Group</a> led by Yang Gao, at School of Intelligence Science and Technology at Nanjing University(Suzhou Campus). Before that, I spent five wonderful years in HKUST, and finished my PhD education and Postdoc Research in <a href="https://uav.hkust.edu.hk/">UAV Group</a>, supervised by Prof. <a href="https://uav.hkust.edu.hk/group/"> Shaojie Shen</a>. I received my bachelor's degree in School of Electronic Engineering and Computer Science, Peking University. I was a research intern at Carnegie Mellon University, Megvii. Co, and Dji Automotive.
 
 ## Research Interests
-
 - **3D Vision:** 3D Reconstruction, Multi-Sensor Fusion
-- **Robotics:** Perception for Robotics, SLAM, Semantic Mapping
+- **Robotics:** SLAM, Semantic Mapping, VLN, Embodied Manipulation
 
 ## News
+- **[Feb. 2026]** 1+1 paper accepted by CVPR.
+- **[Jan. 2026]** One paper accepted by RAL.
 - **[Jan. 2026]** Two paper accepted by ICRA.
 - **[Nov. 2025]** One paper accepted by AAAI.
 - **[Sep. 2025]** I am glad to serve as an Associate Editor of ICRA 2026.
