@@ -10,9 +10,7 @@ I received my bachelor's degree from the School of Electronic Engineering and Co
 
 My research interests include 3D vision, multi-sensor fusion, SLAM, semantic mapping, vision-language navigation, and embodied manipulation.
 
-> I will have several PhD and Master's positions available for 2027. Students interested in VLN, Semantic Scene Graph and Long-Horizon Manipulation are welcome to get in touch.
-
-> 目前我有一定27年秋入学的硕博指标，感兴趣的同学请联系我。硕士需要首先报考智科院夏令营并通过夏令营筛选。
+> I will have several PhD and Master's positions available for 2027. Students interested in VLN, Semantic Scene Graph and Long-Horizon Manipulation are welcome to get in touch. 目前我有一定27年秋入学的硕博指标，感兴趣的同学请联系我。硕士需要首先报考智科院夏令营并通过夏令营筛选。
 
 ## Recent News
 
