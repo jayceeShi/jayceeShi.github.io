@@ -119,3 +119,23 @@ h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
     flex-basis: auto;
   }
 }
+
+.news-box {
+  max-height: 220px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 8px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.news-box ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.news-box li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}

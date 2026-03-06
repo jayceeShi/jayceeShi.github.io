@@ -15,31 +15,19 @@ My research interests include 3D vision, multi-sensor fusion, SLAM, semantic map
 > 目前我有一定27年秋入学的硕博指标，感兴趣的同学请联系我。硕士需要首先报考智科院夏令营并通过夏令营筛选。
 
 ## Recent News
-
-<div class="news-scroller">
-  <div class="news-scroller__track">
-    <div class="news-item"><div class="news-item__date">2026.02</div><div class="news-item__text">1+1 paper accepted by CVPR.</div></div>
-    <div class="news-item"><div class="news-item__date">2026.01</div><div class="news-item__text">One paper accepted by RA-L.</div></div>
-    <div class="news-item"><div class="news-item__date">2026.01</div><div class="news-item__text">Two papers accepted by ICRA.</div></div>
-    <div class="news-item"><div class="news-item__date">2025.11</div><div class="news-item__text">One paper accepted by AAAI.</div></div>
-    <div class="news-item"><div class="news-item__date">2025.09</div><div class="news-item__text">I am glad to serve as an Associate Editor of ICRA 2026.</div></div>
-    <div class="news-item"><div class="news-item__date">2025.05</div><div class="news-item__text">One paper accepted by RA-L.</div></div>
-    <div class="news-item"><div class="news-item__date">2025.04</div><div class="news-item__text">One paper accepted by T-RO.</div></div>
-    <div class="news-item"><div class="news-item__date">2024.12</div><div class="news-item__text">One paper accepted by ICLR.</div></div>
-    <div class="news-item"><div class="news-item__date">2024.09</div><div class="news-item__text">I am glad to serve as an Associate Editor of ICRA 2025.</div></div>
-    <div class="news-item"><div class="news-item__date">2024.06</div><div class="news-item__text">Glad to announce that I joined Nanjing University (Suzhou Campus) in summer 2024 as an Assistant Professor.</div></div>
-
-    <div class="news-item"><div class="news-item__date">2026.02</div><div class="news-item__text">1+1 paper accepted by CVPR.</div></div>
-    <div class="news-item"><div class="news-item__date">2026.01</div><div class="news-item__text">One paper accepted by RA-L.</div></div>
-    <div class="news-item"><div class="news-item__date">2026.01</div><div class="news-item__text">Two papers accepted by ICRA.</div></div>
-    <div class="news-item"><div class="news-item__date">2025.11</div><div class="news-item__text">One paper accepted by AAAI.</div></div>
-    <div class="news-item"><div class="news-item__date">2025.09</div><div class="news-item__text">I am glad to serve as an Associate Editor of ICRA 2026.</div></div>
-    <div class="news-item"><div class="news-item__date">2025.05</div><div class="news-item__text">One paper accepted by RA-L.</div></div>
-    <div class="news-item"><div class="news-item__date">2025.04</div><div class="news-item__text">One paper accepted by T-RO.</div></div>
-    <div class="news-item"><div class="news-item__date">2024.12</div><div class="news-item__text">One paper accepted by ICLR.</div></div>
-    <div class="news-item"><div class="news-item__date">2024.09</div><div class="news-item__text">I am glad to serve as an Associate Editor of ICRA 2025.</div></div>
-    <div class="news-item"><div class="news-item__date">2024.06</div><div class="news-item__text">Glad to announce that I joined Nanjing University (Suzhou Campus) in summer 2024 as an Assistant Professor.</div></div>
-  </div>
+<div class="news-box">
+  <ul>
+    <li><strong>2026.02</strong>1+1 paper accepted by CVPR.</li>
+    <li><strong>2026.01</strong>One paper accepted by RA-L.</li>
+    <li><strong>2026.01</strong>Two papers accepted by ICRA.</li>
+    <li><strong>2025.11</strong>One paper accepted by AAAI.</li>
+    <li><strong>2025.09</strong>I am glad to serve as an Associate Editor of ICRA 2026.</li>
+    <li><strong>2025.05</strong>One paper accepted by RA-L.</li>
+    <li><strong>2025.04</strong>One paper accepted by T-RO.</li>
+    <li><strong>2024.12</strong>One paper accepted by ICLR.</li>
+    <li><strong>2024.09</strong>I am glad to serve as an Associate Editor of ICRA 2025.</li>
+    <li><strong>2024.06</strong>Glad to announce that I joined Nanjing University (Suzhou Campus) in summer 2024 as an Assistant Professor.</li>
+  </ul>
 </div>
 
 ## Research Interests
