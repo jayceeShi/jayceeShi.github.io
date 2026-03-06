@@ -33,12 +33,6 @@ h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
   line-height: 1.75;
 }
 
-.author__avatar img {
-  width: 100px;
-  max-width: 100px;
-  border-radius: 50%;
-}
-
 .news-box {
   max-height: 220px;
   overflow-y: auto;
@@ -57,4 +51,33 @@ h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
 .news-box li {
   margin-bottom: 10px;
   line-height: 1.6;
+}
+
+/* 头像放大覆盖：根据需要修改 width/height 的数值（单位 px 或 rem） */
+.author__avatar,
+.author__avatar img,
+.avatar,
+.site-avatar,
+.author-avatar,
+.author__image {
+  width: 140px;
+  height: 140px;
+  max-width: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: inline-block;
+}
+
+/* 小屏幕时缩小头像（可选） */
+@media (max-width: 640px) {
+  .author__avatar,
+  .author__avatar img,
+  .avatar,
+  .site-avatar,
+  .author-avatar,
+  .author__image {
+    width: 96px;
+    height: 96px;
+    max-width: 96px;
+  }
 }
