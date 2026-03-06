@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
   border-radius: 50%;
   object-fit: cover;
   /* 将头像向右移动：第一个值控制水平偏移（0% - 100%），可调大些向右 */
-  object-position: 60% 50%;
+  object-position: 70% 50%;
   display: inline-block;
 }
 
@@ -81,64 +81,5 @@ h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
     width: 96px;
     height: 96px;
     max-width: 96px;
-  }
-}
-
-/* 正文宽度调整：允许正文在大屏更宽，在小屏自适应 */
-.page__content,
-.post__content,
-.entry__content,
-.content {
-  width: 100%;
-  max-width: 1500px; /* 根据需要修改最大宽度 */
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-@media (max-width: 1900px) {
-  .page__content,
-  .post__content,
-  .entry__content,
-  .content {
-    max-width: 100%;
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
-  }
-}
-
-/* 统一标题与正文宽度，避免标题与正文错位 */
-.page__header,
-.page-header,
-.page__title,
-.post__title,
-.collection-title,
-.archive-title {
-  max-width: 1900px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  box-sizing: border-box;
-}
-
-/* 如果主题使用侧边栏布局，确保主内容区能扩展 */
-.site-main,
-.content-wrapper,
-.site-content,
-.main-content {
-  width: 100%;
-}
-
-@media (max-width: 1900px) {
-  .page__header,
-  .page-header,
-  .page__title,
-  .post__title,
-  .collection-title,
-  .archive-title {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
   }
 }
