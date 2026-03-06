@@ -67,6 +67,11 @@ h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
   object-fit: cover;
   /* 将头像向右移动：第一个值控制水平偏移（0% - 100%），可调大些向右 */
   object-position: 50% 50%;
+  background-position: 60% 50% !important;
+  background-size: cover !important;
+  display: block !important;
+  margin: 0 auto !important;
+  overflow: hidden !important;
   display: inline-block;
 }
 
@@ -83,3 +88,4 @@ h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
     max-width: 96px;
   }
 }
+
