@@ -107,3 +107,38 @@ h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
     padding-right: 0.75rem;
   }
 }
+
+/* 统一标题与正文宽度，避免标题与正文错位 */
+.page__header,
+.page-header,
+.page__title,
+.post__title,
+.collection-title,
+.archive-title {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+
+/* 如果主题使用侧边栏布局，确保主内容区能扩展 */
+.site-main,
+.content-wrapper,
+.site-content,
+.main-content {
+  width: 100%;
+}
+
+@media (max-width: 900px) {
+  .page__header,
+  .page-header,
+  .page__title,
+  .post__title,
+  .collection-title,
+  .archive-title {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+}
