@@ -1,55 +1,78 @@
-# Basic Information 
-title: Jieqi Shi
-position: Associate Professor
-affiliation: Nanjing University(Suzhou Campus)
-email: jayceesjq (at) gmail.com
+title: "Jieqi Shi"
+name: "Jieqi Shi"
+description: "Academic homepage of Jieqi Shi"
+url: "https://jayceeshi.github.io"
+baseurl: ""
+repository: "jayceeshi/jayceeshi.github.io"
+locale: "en-US"
+timezone: "Asia/Shanghai"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+markdown: kramdown
+permalink: /:categories/:title/
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: homepage
-description: Academic personal homepage.
-canonical: https://jayceeshi.github.io
+author:
+  name: "Jieqi Shi"
+  avatar: "/assets/images/me.jpg"
+  bio: "Tenure-Track Associate Professor · Nanjing University"
+  location: "Suzhou, China"
+  employer: "School of Intelligence Science and Technology, Nanjing University"
+  email: "jayceesjq@gmail.com"
+  uri: "https://jayceeshi.github.io"
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=Pr7wOhwAAAAJ&hl=en
-# github_link: https://github.com/
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/me.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+include:
+  - _pages
+  - files
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+  - vendor
+  - node_modules
+  - .sass-cache
+  - .jekyll-cache
+
+footer:
+  links: []
+
+atom_feed:
+  hide: true
+
+search: false
