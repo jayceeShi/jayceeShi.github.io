@@ -41,7 +41,6 @@ My research interests include 3D vision, multi-sensor fusion, SLAM, semantic map
     <div class="news-item"><div class="news-item__date">2024.06</div><div class="news-item__text">Glad to announce that I joined Nanjing University (Suzhou Campus) in summer 2024 as an Assistant Professor.</div></div>
   </div>
 </div>
-<div class="news-note">
 
 ## Research Interests
 
