@@ -4,40 +4,46 @@ title: "Personal profile"
 author_profile: true
 ---
 
-Hello there, I am currently a Tenure-Track Associate Professor in the [Reasoning and Learning Research Group](https://cs.nju.edu.cn/) led by Yang Gao, at the School of Intelligence Science and Technology at Nanjing University (Suzhou Campus). Before that, I spent five wonderful years in the [UAV Group](https://uav.hkust.edu.hk/) at HKUST, where I completed my PhD and postdoctoral research under the supervision of Prof. Shaojie Shen.
+I am currently a Tenure-Track Associate Professor in the [Reasoning and Learning Research Group](https://cs.nju.edu.cn/) led by Yang Gao, at the School of Intelligence Science and Technology at Nanjing University (Suzhou Campus). Before that, I spent five wonderful years in the [UAV Group](https://uav.hkust.edu.hk/) at HKUST, where I completed my PhD and postdoctoral research under the supervision of Prof. Shaojie Shen.
 
 I received my bachelor's degree from the School of Electronic Engineering and Computer Science at Peking University. I was also a research intern at Carnegie Mellon University, Megvii, and DJI Automotive.
 
 My research interests include 3D vision, multi-sensor fusion, SLAM, semantic mapping, vision-language navigation, and embodied manipulation.
 
+> I will have several PhD and Master's positions available for 2027. Students interested in VLN, Semantic Scene Graph and Long-Horizon Manipulation are welcome to get in touch.
+
+> 目前我有一定27年秋入学的硕博指标，感兴趣的同学请联系我。硕士需要首先报考智科院夏令营并通过夏令营筛选。
+
 ## Recent News
 
-### 2026
-- [Feb. 2026] 1+1 paper accepted by CVPR.
-- [Jan. 2026] One paper accepted by RA-L.
-- [Jan. 2026] Two papers accepted by ICRA.
+<div class="news-scroller">
+  <div class="news-scroller__track">
+    <div class="news-item"><div class="news-item__date">2026.02</div><div class="news-item__text">1+1 paper accepted by CVPR.</div></div>
+    <div class="news-item"><div class="news-item__date">2026.01</div><div class="news-item__text">One paper accepted by RA-L.</div></div>
+    <div class="news-item"><div class="news-item__date">2026.01</div><div class="news-item__text">Two papers accepted by ICRA.</div></div>
+    <div class="news-item"><div class="news-item__date">2025.11</div><div class="news-item__text">One paper accepted by AAAI.</div></div>
+    <div class="news-item"><div class="news-item__date">2025.09</div><div class="news-item__text">I am glad to serve as an Associate Editor of ICRA 2026.</div></div>
+    <div class="news-item"><div class="news-item__date">2025.05</div><div class="news-item__text">One paper accepted by RA-L.</div></div>
+    <div class="news-item"><div class="news-item__date">2025.04</div><div class="news-item__text">One paper accepted by T-RO.</div></div>
+    <div class="news-item"><div class="news-item__date">2024.12</div><div class="news-item__text">One paper accepted by ICLR.</div></div>
+    <div class="news-item"><div class="news-item__date">2024.09</div><div class="news-item__text">I am glad to serve as an Associate Editor of ICRA 2025.</div></div>
+    <div class="news-item"><div class="news-item__date">2024.06</div><div class="news-item__text">Glad to announce that I joined Nanjing University (Suzhou Campus) in summer 2024 as an Assistant Professor.</div></div>
 
-### 2025
-- [Nov. 2025] One paper accepted by AAAI.
-- [Sep. 2025] I am glad to serve as an Associate Editor of ICRA 2026.
-- ~~团队目前有一个申请-考核制博士名额（需要 2026 年入学前获得硕士学位），计划招录一名对 SLAM/导航有一定基础和兴趣的同学。请感兴趣的同学邮件联系。~~
-- [May. 2025] One paper accepted by RA-L.
-- [Apr. 2025] One paper accepted by T-RO.
-
-### 2024
-- [Dec. 2024] One paper accepted by ICLR.
-- [Sep. 2024] I am glad to serve as an Associate Editor of ICRA 2025.
-- [Jun. 2024] Glad to announce that I will join Nanjing University (Suzhou Campus) in summer 2024 as an Assistant Professor. Students who are interested in my research are welcome to get in touch.
-
+    <div class="news-item"><div class="news-item__date">2026.02</div><div class="news-item__text">1+1 paper accepted by CVPR.</div></div>
+    <div class="news-item"><div class="news-item__date">2026.01</div><div class="news-item__text">One paper accepted by RA-L.</div></div>
+    <div class="news-item"><div class="news-item__date">2026.01</div><div class="news-item__text">Two papers accepted by ICRA.</div></div>
+    <div class="news-item"><div class="news-item__date">2025.11</div><div class="news-item__text">One paper accepted by AAAI.</div></div>
+    <div class="news-item"><div class="news-item__date">2025.09</div><div class="news-item__text">I am glad to serve as an Associate Editor of ICRA 2026.</div></div>
+    <div class="news-item"><div class="news-item__date">2025.05</div><div class="news-item__text">One paper accepted by RA-L.</div></div>
+    <div class="news-item"><div class="news-item__date">2025.04</div><div class="news-item__text">One paper accepted by T-RO.</div></div>
+    <div class="news-item"><div class="news-item__date">2024.12</div><div class="news-item__text">One paper accepted by ICLR.</div></div>
+    <div class="news-item"><div class="news-item__date">2024.09</div><div class="news-item__text">I am glad to serve as an Associate Editor of ICRA 2025.</div></div>
+    <div class="news-item"><div class="news-item__date">2024.06</div><div class="news-item__text">Glad to announce that I joined Nanjing University (Suzhou Campus) in summer 2024 as an Assistant Professor.</div></div>
+  </div>
+</div>
+<div class="news-note">Auto-scrolls vertically and pauses on hover, like a civilized little information conveyor belt.</div>
 ## Research Interests
 
 - **3D Vision:** 3D reconstruction, multi-sensor fusion
 - **Robotics:** SLAM, semantic mapping, VLN, embodied manipulation
 
-## Services
-
-### Conference Reviewer
-ICRA, IROS, 3DV, CVPR
-
-### Journal Reviewer
-RA-L, TPAMI
