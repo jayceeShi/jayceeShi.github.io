@@ -1,3 +1,6 @@
+---
+---
+
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;600;700&display=swap");
 
 $global-font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -9,26 +12,7 @@ $serif: 'Source Serif 4', Georgia, serif;
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
-html {
-  font-size: 16px;
-}
-
-body, .page__content, .archive, .author__content {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6, .site-title, .masthead__menu-item {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  letter-spacing: -0.01em;
-}
-
-.page__content p,
-.page__content li,
-.page__content td,
-.page__content th {
-  font-size: 0.98rem;
-  line-height: 1.75;
-}
+html { font-size: 16px; }
 
 .news-box {
   max-height: 220px;
