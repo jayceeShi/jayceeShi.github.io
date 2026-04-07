@@ -10,7 +10,7 @@ I received my bachelor's degree from the School of Electronic Engineering and Co
 
 My research interests include 3D vision, multi-sensor fusion, SLAM, semantic mapping, vision-language navigation, and embodied manipulation.
 
-> 实验室计划招收1-2名26年考研学生，感兴趣的同学请与我联系。
+> 实验室接收大三年级本科生（大二至大三暑假或大三学期中）提前进组科研，感兴趣同学请联系我。更低年级学生暂没有充足人力培养，推荐先选修相关课程（可以邮件找我咨询），后与我们联系。
 
 > I will have several PhD and Master's positions available for 2027. Students interested in VLN, Semantic Scene Graph and Long-Horizon Manipulation are welcome to get in touch. 目前我有一定27年秋入学的硕博指标，感兴趣的同学请联系我。硕士需要首先报考智科院夏令营并通过夏令营筛选。
 
