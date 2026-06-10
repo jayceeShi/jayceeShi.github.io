@@ -18,6 +18,8 @@ My research interests include 3D vision, multi-sensor fusion, SLAM, semantic map
 
 <div class="news-box">
   <ul>
+    <li><strong>2026.06</strong> V-Dreamer received the Best Paper Award at the ICRA 2026 Workshop on Generative Digital Twins for Real2Sim and Sim2Real Transfer.</li>
+    <li><strong>2026.06</strong> INHerit-SG was selected as a Best Presentation Finalist at the ICRA 2026 Workshop on Robots Meet Prior Maps.</li>
     <li><strong>2026.02</strong> 1+1 paper accepted by CVPR.</li>
     <li><strong>2026.01</strong> One paper accepted by RA-L.</li>
     <li><strong>2026.01</strong> Two papers accepted by ICRA.</li>
