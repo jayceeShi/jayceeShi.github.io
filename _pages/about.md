@@ -13,8 +13,8 @@ My research interests include 3D vision, multi-sensor fusion, SLAM, semantic map
 > 实验室接收大三年级本科生（大二至大三暑假或大三学期中）提前进组科研，感兴趣同学请联系我。更低年级学生暂没有充足人力培养，推荐先选修相关课程（可以邮件找我咨询），后与我们联系。
 
 > I will have several PhD and Master's positions available for 2027. Students interested in VLN, Semantic Scene Graph and Long-Horizon Manipulation are welcome to get in touch.
-> 目前我有一定27年秋入学的硕博指标，硕士请先报名南京大学智科院的九月推免，有兴趣直博的同学请邮件联系我。另外，暂时不确定是否有普博名额，请普博同学九月推免后再联系。
-
+> <del>目前我有一定27年秋入学的硕博指标，硕士请先报名南京大学智科院的九月推免，有兴趣直博的同学请邮件联系我。另外，暂时不确定是否有普博名额，请普博同学九月推免后再联系。</del>
+> 直博候选人较多，暂不接收新申请硕士请直接报名智科院推免。普博名额暂不确定，9月后更新。
 ## Recent News
 
 <div class="news-box">
