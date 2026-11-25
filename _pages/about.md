@@ -10,16 +10,14 @@ I received my bachelor's degree from the School of Electronic Engineering and Co
 
 My research interests include 3D vision, multi-sensor fusion, SLAM, semantic mapping, vision-language navigation, and embodied manipulation.
 
-> 实验室接收大三年级本科生（大二至大三暑假或大三学期中）提前进组科研，感兴趣同学请联系我。更低年级学生暂没有充足人力培养，推荐先选修相关课程（可以邮件找我咨询），后与我们联系。
+> 实验室接收大三年级本科生（大二至大三暑假或大三学期中）提前进组科研，感兴趣同学请选修智科院机器人系列课程（机器人导论、机器人进阶、强化学习）并与我联系。更低年级学生暂没有充足人力培养，推荐先选修相关课程（可以邮件找我咨询）。
 
-> 有一个普博名额，请感兴趣的普博同学邮件联系我。
-> 
-> 智科院推免已经结束。今年没有研究生和直博名额了，不再回复相关邮件。
 
 ## Recent News
 
 <div class="news-box">
   <ul>
+    <li><strong>2026.06</strong> One accepted by RA-L, one paper accepted by DAI 2026.</li>
     <li><strong>2026.06</strong> V-Dreamer received the Best Paper Award at the ICRA 2026 Workshop on Generative Digital Twins for Real2Sim and Sim2Real Transfer.</li>
     <li><strong>2026.06</strong> INHerit-SG was selected as a Best Presentation Finalist at the ICRA 2026 Workshop on Robots Meet Prior Maps.</li>
     <li><strong>2026.02</strong> 1+1 paper accepted by CVPR.</li>
