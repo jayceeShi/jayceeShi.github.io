@@ -8,7 +8,7 @@ I am currently a Tenure-Track Associate Professor in the [Reasoning and Learning
 
 I received my bachelor's degree from the School of Electronic Engineering and Computer Science at Peking University. I was also a research intern at Carnegie Mellon University, Megvii, and DJI Automotive.
 
-My research interests include 3D vision, multi-sensor fusion, SLAM, semantic mapping, vision-language navigation, and embodied manipulation.
+I’m interested in a wide range of problems in embodied AI. I’ve followed research on semantic mapping and scene graphs for a long time, and recently I am trying to deepen my understanding of robot navigation and mobile manipulation (also real2sim2real topics) ^ ^.
 
 > 实验室接收大三年级本科生（大二至大三暑假或大三学期中）提前进组科研，感兴趣同学请选修智科院机器人系列课程（机器人导论、机器人进阶、强化学习）并与我联系。更低年级学生暂没有充足人力培养，推荐先选修相关课程（可以邮件找我咨询）。
 
